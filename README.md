@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQEXLuwgUZl_5g/profile-displaybackgroundimage-shrink_350_1400/0/1653144840796?e=1663200000&v=beta&t=7U5PJMLYJWZQbpi5arbuOUI2tp903mOiAHCXnbHdVtQ)](https://arjungiri.herokuapp.com/)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C5616AQGV3TFI4b2yMg/profile-displaybackgroundimage-shrink_200_800/0/1659460792486?e=1665014400&v=beta&t=7IdZuYmux_jNR6VzOAdlzrOcvwbS_uW8n-cDpkvfeU8)](https://arjungiri.herokuapp.com/)
 <h1 align="center">Hi 👋, I'm Arjun Giri</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 <img align="right"  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif" alt="coding width="100%" height="350">
